@@ -1,4 +1,4 @@
-### google Map showing markers and polylines
+### Google Map showing markers and polylines
 
 Project Builtin : Codeigniter , MongoDb
 
