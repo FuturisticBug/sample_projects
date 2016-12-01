@@ -1,0 +1,629 @@
+/*responsive css*/
+/*min-width*/
+@media (min-width: 431px) {
+	
+}
+
+@media (min-width: 768px) {	
+	
+}
+
+@media (min-width: 992px) {	
+    .tallent-head h3 {
+        font-size: 30px;
+        margin-bottom: 50px;
+    }
+    .tallent-head p {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+    .technologi h3 {
+        margin-bottom: 50px;
+    }
+    .about-banner .captionInner {
+        margin-top: 120px;
+    }
+    .portfolio-bnr h2 {
+        margin-top: 160px;
+    }
+   
+}
+
+@media (min-width: 1200px) {	
+	 .tab-top a.portfolio-cont .port-img {
+        height: 388px;
+        overflow: hidden;
+    }   
+}
+
+/*max-width*/
+@media (max-width: 1199px) {	
+    h2 {
+        font-size: 40px;
+    }
+    .what-we {
+        padding: 40px 0;
+    }
+    .what-we h3 {
+        margin-bottom: 20px;
+    }
+    .navbar-nav > li > a {
+        padding: 15px 10px;
+    }
+    .tallent, .career-outer, .vision-box {
+        padding: 40px 0;
+    }
+    .tallent-head {
+        padding-bottom: 40px;
+    }
+    
+    .service_tab_row p{
+        font-size: 18px;
+    }
+    .service_tab_cols{
+        padding: 20px;
+    }
+    .service_count{
+        width: 40px;
+        height: 40px;
+        line-height: 36px;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .process_sub_text{
+        font-size: 18px;
+    }
+    .services_header{
+        margin-bottom: 30px;
+    }
+    .process_text{
+        margin-bottom: 20px;
+    }
+    .services_secion{
+        padding-top: 40px;
+    }
+    .design-l p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .serv-post {
+        padding-top: 40px;
+    }
+    .serv-post h4 {
+         margin-bottom: 30px;
+    }
+    .post-blog h3 a {
+        font-size: 20px;
+    }
+    .post-blog {
+        margin-bottom: 30px;
+    }
+    .contactInner {
+        margin-top: 30px;
+    }
+    textarea.frm-input {
+        width: 83%;
+    }
+}
+
+@media (max-width: 991px) {
+    .what-we .work-inner > h3 br {
+        display: none;
+    }
+    .what-we .work-inner > h3 {
+        font-size: 12px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .design-l h2 {
+        margin-bottom: 25px;
+    }
+    .design-l p {
+        font-size: 16px;
+    }
+    .view-profile {
+        margin-top: 10px;
+    }
+    .design-cont {
+        padding-bottom: 40px;
+    }
+    .question-l {
+        margin-top: 0;
+    }
+    .question {
+        padding: 30px 0;
+    }
+    .client-glry {
+        width: 49%;
+    }
+    .client-2, .client-3, .client-4, .client-5, .client-6 {
+        margin-top: 0;
+    }
+    .qstion-contact ul li a, .question-l p {
+        font-size: 16px;
+    }
+    .qstion-contact {
+        margin-top: 20px;
+    }
+    .qstion-contact ul li a {
+        font-size: 14px;
+    }
+    .question-l h2 {
+        margin-bottom: 20px;
+    }
+     .vision h2 {
+        font-size: 40px;
+    }
+    .vision h4 {
+        font-size: 11px;
+    }
+    .vision p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .our-vision {
+        margin-top: 20px;
+    }
+    .tallent-head {
+        padding-bottom: 30px;
+    }
+    .about-banner .captionInner h2 {
+        margin-top: 110px;
+    }
+    .port-tab ul.nav-tabs li a .tab-box {
+        padding: 20px;
+    }
+    .port-l {
+        width: 300px;
+    }
+    .port-l h3 {
+        font-size: 18px;
+    }
+    .port-l h4 {
+        margin-bottom: 0;
+    }
+    .port-text {
+        margin-top: 20px;
+    }
+    .tab-top a.portfolio-cont {
+        margin-bottom: 10px;
+    }
+    .tab-top {
+        margin-top: 20px;
+    }
+
+     .service_tab_row p{
+        font-size: 16px;
+    }
+    .service_tab_cols{
+        padding: 15px;
+    }
+    .services_icon{
+        height: 40px;
+        line-height: 40px;
+    }
+    .services_icon > img{
+        max-height: 38px;
+    }
+    .service-tab.port-tab ul.nav-tabs li a .tab-box {
+        padding: 20px 0;
+    }
+    .service-tab.port-tab ul.nav-tabs li a .tab-box .tab-pic img {
+        width: 40px;
+    } 
+    .service-tab.port-tab ul.nav-tabs li a .tab-box .tab-pic {
+        min-height: 35px;
+    }
+    .service-tab.port-tab ul.nav-tabs li a .tab-box h3 {
+        font-size: 12px;
+    }
+    .serv-post h4 {
+        margin-bottom: 20px;
+    }
+    .post-r h3 a {
+        font-size: 20px;
+    }
+    .post-r h4 {
+        font-size: 14px;
+    }
+    .post-r p {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .post-box {
+        margin-bottom: 30px;
+    }
+    .post-blog h3 a {
+        font-size: 15px;
+    }
+    .post-blog h3 {
+        line-height: 16px;
+    }
+    .serv-post .post-blog h4 {
+        margin-bottom: 10px;
+    }
+    .post-blog p {
+        line-height: 22px;
+    }
+      .post-r {
+        margin-left: 400px;
+    }
+     .post-l {
+        width: 380px;
+    }
+    .serv-detail-pic {
+        margin-left: 0;
+    }
+    .serv-detail-outer {
+        padding-top: 30px;
+    }
+    .serv-detail.about-banner .captionInner h2 {
+        color: #757979;
+    }
+    .serv-detail-outer {
+        padding-top: 10px;
+    }
+    .back-list a {
+        padding: 8px 15px;
+        font-size: 13px;
+    }
+    .serv-publish {
+        margin-top: 20px;
+    }
+    .serv-detail-pic {
+        margin: 20px 0;
+    }
+    textarea.frm-input {
+        width: 77%;
+    }
+    .btn-submit {
+        width: 60px;
+        height: 60px;
+        background-size: 50% 50%;
+    }
+    .frmLeft {
+        padding: 30px 20px; 
+    }
+    .frm-input {
+        font-size: 16px;
+    }
+    .contact-info, .follow {
+        padding: 30px 20px;
+    }
+    .info-book:last-child {
+        margin-bottom: 0;
+    }
+
+}
+
+@media  (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+@media (max-width: 767px) {
+	.work-inner {
+        padding: 10px 0;
+    }
+    .what-we {
+        padding: 20px 0;
+    }
+    h2 {
+        font-size: 25px;
+        letter-spacing: 0;
+    }
+    .happy-head h2 {
+        margin-bottom: 20px;
+    }
+    .technologi ul li {
+        width: 24%;
+    }
+    .technologi h3 {
+        margin-bottom: 30px;
+    }
+    .career-box {
+        margin-bottom: 20px;
+    }
+     .career-box:last-child {
+        margin-bottom: 0px;
+    }
+    .tallent, .career-outer, .vision-box {
+        padding: 20px 0;
+    }
+    .about-banner .captionInner {
+        max-width: 355px;
+    }
+    .footer_top_part ul {
+        min-height: inherit;
+    }
+    .footer_top_part .col-xs-6:nth-child(2) ul {
+         min-height: 200px;
+    }
+    .tab-box h3 {
+        font-size: 12px;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .about-banner .captionInner h2 {
+        margin-top: 0;
+    }
+    .port-img > img {
+        width: 100%;
+    }
+    .design-r {
+        position: static;
+        text-align: center;
+    }
+    .design-l p {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .design-r > img{
+        max-width: 40%;
+    }
+    .design-contnt{
+        margin: 30px 0;
+    }
+    .post-l {
+        float: none;
+        width: auto;
+    }
+    .post-r {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .right-news {
+        display: none;
+    }
+    .frmLeft h3 {
+        margin-bottom: 20px;
+    }
+    .frm-input {
+        margin-bottom: 30px;
+    }
+    .contactInner .col-sm-8 {
+        padding-right: 15px;
+    }
+    .contactInner .col-sm-4 {
+        padding-left: 15px;
+    }
+    .contactFrm {
+        margin-bottom: 20px;
+    }
+    textarea.frm-input {
+        width: 87%;
+    }
+}
+
+
+
+@media (max-width: 600px) {
+	.what-we .work-inner > h3 {
+        font-size: 12px;
+    }
+    h3 {
+        font-size: 19px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    .vision h2 {
+        font-size: 30px;
+    }
+    .tallent-head {
+        padding-bottom: 0;
+    }
+    .vision h4 {
+        margin-bottom: 35px;
+    }
+    .technologi ul li a {
+        font-size: 13px;
+    }
+    .technologi ul li {
+        margin-bottom: 10px;
+    }
+    p, .career-box p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .technologi ul li a .framework {
+        margin-bottom: 10px;
+    }
+    .about-banner .captionInner p {
+        font-size: 14px;
+    }
+    .about-banner .captionInner h2 {
+        margin-bottom: 30px;
+    }
+    .about-banner .captionInner h2 br {
+        display: none;
+    }
+    .port-tab ul.nav-tabs li a .tab-box .tab-pic {
+        min-height: inherit;
+    }
+   .port-tab ul.nav-tabs li a .tab-box .tab-pic img {
+        height: 40px;
+    }
+    .portfolio-bnr .about-banner .captionInner h2 {
+        margin-bottom: 0;
+    }
+    .port-tab ul.nav-tabs li a .tab-box .tab-pic img {
+        height: 32px;
+    }
+    .tab-box h3, .service-tab.port-tab ul.nav-tabs li a .tab-box h3 {
+        font-size: 10px;
+    }
+    
+     .service_table_outer, .service_tab_row, .service_tab_cols{
+        display: block;
+        width: 100%;
+    }
+    .service_tab_cols{
+        border-right: none;
+    }
+    .service_table_outer{
+        padding:0 0 45px 0;
+    }
+    .service_tab_row:last-child .service_tab_cols {
+        border-bottom: 1px solid #ededed;
+    }
+   .design-r > img {
+        max-width: 200px;
+    }
+    .captionInner h2{
+        font-size: 17px;
+        margin-bottom: 20px;
+    }
+    .contactInner {
+        margin-top: 0;
+    }
+    textarea.frm-input {
+        width: 81%;
+    }
+    .follow ul li a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 16px;
+    }
+    
+    .contact-info h3, .follow h3 {
+        margin-bottom: 20px;
+    }
+    
+    
+    
+    
+}
+
+@media (max-width: 500px) {
+	.serv-post {
+        padding-top: 10px;
+    }
+
+}
+@media (max-width: 430px) {
+   
+    .work-pic {
+        min-height: 30px;
+    }
+    .what-we .work-inner > h3 {
+        margin: 10px 0;
+    }
+    .what-cont .col-xs-6 {
+        min-height: 122px;
+    }
+    
+/*
+    h2 {
+        font-size: 17px;
+    }
+*/
+    .what-we {
+        padding-bottom: 0;
+    }
+    .design-l p, .question-l p, .happy-head p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .work-pic img {
+        width: 24%;
+    }
+    .work-inner {
+        padding: 0;
+    }
+    .design-cont {
+        padding-bottom: 20px;
+    }
+    .what-we .work-inner > h3 br {
+        display: block;
+    }
+    .design-cont {
+        padding-top: 20px;
+    }
+    .technologi ul li {
+        width: 31%;
+    }
+    .career-box h4 {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .vision-box {
+        padding-bottom: 0;
+    }
+    .port-l {
+        width: 250px;
+    } 
+    .port-l h4 {
+        font-size: 11px;
+    }
+    .port-l p {
+        font-size: 12px;
+    }
+    .tab-inner ul.nav-tabs li a {
+        font-size: 12px;
+    }
+    .port-tab ul.nav-tabs li a .tab-box {
+        padding: 10px 0;
+    }
+    .serv-post h4 {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+    .post-r h3 a {
+        font-size: 17px;
+    }
+    .post-r {
+        margin-top: 15px;
+    }
+    .serv-post h4 {
+        font-size: 15px;
+    }
+    .post-r p {
+        font-size: 14px;
+    }
+    .post-box {
+        margin-bottom: 20px;
+    }
+    .blog-box .col-sm-4.col-xs-6 {
+        width: 100%;
+        float: none;
+    }
+    .blog-box .col-sm-4.col-xs-6:last-child .post-blog {
+        margin-bottom: 0;
+    }
+    .frmLeft {
+        padding-top: 20px;
+    }
+    .frmLeft h3 {
+        font-size: 16px;
+        letter-spacing: 0;
+    }
+    .input-box label {
+        margin-bottom: 0;
+    }
+    .frm-input {
+        margin-bottom: 20px;
+    }
+    textarea.frm-input {
+        width: 73%;
+    }
+    .btn-submit {
+        background-size: 40% 40%;
+        height: 50px;
+        width: 50px;
+    }
+    textarea.frm-input {
+        vertical-align: bottom;
+        height: 70px;
+    }
+    .frm-input {
+        font-size: 14px;
+    }
+    .follow ul li a {
+        line-height: 32px;
+    }
+}
+@media (max-width: 400px) {
+	
+}
